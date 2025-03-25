@@ -1,0 +1,6 @@
+com\myshop\model\Product.class
+com\myshop\model\User.class
+com\myshop\model\OrderItem.class
+com\myshop\model\Order.class
+com\myshop\MyShopApplication.class
+com\myshop\model\Category.class
